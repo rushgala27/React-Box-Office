@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rushgala27/React-Box-Office/static/css/main.b2586571.css",
-    "main.js": "/rushgala27/React-Box-Office/static/js/main.763e2d79.js",
+    "main.js": "/rushgala27/React-Box-Office/static/js/main.8140469d.js",
     "static/js/787.6e354c4d.chunk.js": "/rushgala27/React-Box-Office/static/js/787.6e354c4d.chunk.js",
     "service-worker.js": "/rushgala27/React-Box-Office/service-worker.js",
     "index.html": "/rushgala27/React-Box-Office/index.html",
     "main.b2586571.css.map": "/rushgala27/React-Box-Office/static/css/main.b2586571.css.map",
-    "main.763e2d79.js.map": "/rushgala27/React-Box-Office/static/js/main.763e2d79.js.map",
+    "main.8140469d.js.map": "/rushgala27/React-Box-Office/static/js/main.8140469d.js.map",
     "787.6e354c4d.chunk.js.map": "/rushgala27/React-Box-Office/static/js/787.6e354c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2586571.css",
-    "static/js/main.763e2d79.js"
+    "static/js/main.8140469d.js"
   ]
 }
